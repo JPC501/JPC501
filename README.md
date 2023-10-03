@@ -4,25 +4,25 @@
 <img src="https://www.canva.com/design/DAFwOYCkPuA/HG9Nyop-TycG2EVH9QwqRA/edit?utm_content=DAFwOYCkPuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 - 🔭 I’m currently working:
-      -PyhtonChronicles: Multi-user Blog
+  - PyhtonChronicles: Multi-user Blog
   
 - 📚 I’m currently learning
-      -Flask
-      -Django
-      -DB Fundamentals
-      -SQL
+  - Flask
+  - Django
+  - DB Fundamentals
+  - SQL
   
 - 👨‍🏫 my learning path:
-      -FastAPI
-      -AWS
-      -Design patterns
-      -CI/CD
+  - FastAPI
+  - AWS
+  - Design patterns
+  - CI/CD
   
 - 📫 How to reach me:
-      -kalvyn501@gmail.com
-      -<a href="https://www.alverjpc.com/">My wbsite </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - kalvyn501@gmail.com
+  - [My website](https://www.alverjpc.com/)
+
+
 
 <!--
 **JPC501/JPC501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
