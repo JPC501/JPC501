@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://drive.google.com/file/d/1hc-ra66ltLF9XsaQAOmNzoIWmJi8nJnx/view?usp=drive_link">
+![Untitled (1000 × 300 px)](https://github.com/JPC501/JPC501/assets/117424143/96084e7d-9af7-4028-a367-b2b4fc01e2bd)
+
 
 - 🔭 I’m currently working:
   - PyhtonChronicles: Multi-user Blog
