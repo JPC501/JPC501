@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I am<a href="https://aristi.dev">Alver a python enthusiast</a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://drive.google.com/file/d/1galx40PvaITzdbltL8qAXppoWNuJZJb1/view?usp=sharing)">
 
 <!--
 **JPC501/JPC501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
