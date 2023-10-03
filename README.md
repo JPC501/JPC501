@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1galx40PvaITzdbltL8qAXppoWNuJZJb1/view?usp=sharing">
+<img src="https://c1.wallpaperflare.com/preview/623/487/747/technology-code-coding-computer.jpg">
 
 <!--
 **JPC501/JPC501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
