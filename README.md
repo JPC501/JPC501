@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://www.canva.com/design/DAFwOYCkPuA/44GHCw5Bbbo66fsvYStOzw/view?utm_content=DAFwOYCkPuA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://drive.google.com/file/d/1hc-ra66ltLF9XsaQAOmNzoIWmJi8nJnx/view?usp=drive_link">
 
 - 🔭 I’m currently working:
   - PyhtonChronicles: Multi-user Blog
