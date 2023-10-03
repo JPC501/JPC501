@@ -1,7 +1,28 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver 👋</h1>
 </div>
-<img src="https://c1.wallpaperflare.com/preview/623/487/747/technology-code-coding-computer.jpg">
+<img src="https://www.canva.com/design/DAFwOYCkPuA/HG9Nyop-TycG2EVH9QwqRA/edit?utm_content=DAFwOYCkPuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
+- 🔭 I’m currently working:
+      -PyhtonChronicles: Multi-user Blog
+  
+- 📚 I’m currently learning
+      -Flask
+      -Django
+      -DB Fundamentals
+      -SQL
+  
+- 👨‍🏫 my learning path:
+      -FastAPI
+      -AWS
+      -Design patterns
+      -CI/CD
+  
+- 📫 How to reach me:
+      -kalvyn501@gmail.com
+      -<a href="https://www.alverjpc.com/">My wbsite </a>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **JPC501/JPC501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
