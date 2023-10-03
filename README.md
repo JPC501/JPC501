@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I am Alver 👋</h1>
+<h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://www.canva.com/design/DAFwOYCkPuA/HG9Nyop-TycG2EVH9QwqRA/edit?utm_content=DAFwOYCkPuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://www.canva.com/design/DAFwOYCkPuA/44GHCw5Bbbo66fsvYStOzw/view?utm_content=DAFwOYCkPuA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 - 🔭 I’m currently working:
   - PyhtonChronicles: Multi-user Blog
@@ -12,7 +12,7 @@
   - DB Fundamentals
   - SQL
   
-- 👨‍🏫 my learning path:
+- 👨‍🏫 my earning path:
   - FastAPI
   - AWS
   - Design patterns
