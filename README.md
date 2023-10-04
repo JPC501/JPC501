@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://github.com/JPC501/JPC501/assets/117424143/96084e7d-9af7-4028-a367-b2b4fc01e2bd">
+<img src="https://github.com/JPC501/JPC501/assets/117424143/24904264-ed90-49eb-86c4-c434c5e93b6e">
+
 
 ## About Me
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
