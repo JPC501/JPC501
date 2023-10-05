@@ -19,7 +19,7 @@
   - Django
   - DB Fundamentals
   - SQL
-  
+
 - 👨‍🏫 my earning path:
   - FastAPI
   - AWS
