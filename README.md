@@ -20,7 +20,7 @@
   - DB Fundamentals
   - SQL
 
-- 👨‍🏫 my earning path:
+- 👨‍🏫 my learning path:
   - FastAPI
   - AWS
   - Design patterns
