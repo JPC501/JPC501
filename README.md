@@ -25,6 +25,7 @@
   - AWS
   - Design patterns
   - CI/CD
+  - Github Actions
   
 - 📫 How to reach me:
   - kalvyn501@gmail.com
