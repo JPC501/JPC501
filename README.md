@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://github.com/JPC501/JPC501/assets/117424143/24904264-ed90-49eb-86c4-c434c5e93b6e">
+<img![SoftwaRE DEVELOPER](https://github.com/user-attachments/assets/d2f7aa00-63c4-4daa-b84c-34dbf8d114c6)/>
+
 
 
 ## About Me
