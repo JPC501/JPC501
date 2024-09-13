@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Alver</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/d2f7aa00-63c4-4daa-b84c-34dbf8d114c6"/>
+<img width="100%" src="https://github.com/user-attachments/assets/d2f7aa00-63c4-4daa-b84c-34dbf8d114c6"/>
 
 
 
